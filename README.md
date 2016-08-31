@@ -36,23 +36,25 @@ In addition to these milestones students will also monitor and record their proj
 
 ## Weekly Schedule
 
-| Week        | Topic           | Deliverable  |
-| ----------- |:-------------:| -----:|
+| Week        | Topic           | Deliverable  | Due Date |
+| ----------- |:-------------:| -----:| -----:|
 | 1 | Introduction |  |
-| 2 | Workflow | Install RStudio, Zotero & create Github Account   |
-| 3 | Defining Your Problem | Problem Design Statement |
-| 4 | Data Sources |  |
-| 5 | Data "Tidying" | Tidy Data Upload  |
-| 6 | Visualization Tools | Exploratory Visualization |
-| 7 | Method Selection | Method Description |
-| 8 | Feature Distillation |  |
-| 9 | Construct Validity |  |
-| 10 | Feature Adaption |  |
-| 11 | Progress Statement | Progress Statement |
-| 12 | Feature Reuse |  |
-| 13 | Advanced Visualization   | Logic Model  |
-| 14 | Iteration & Collaboration  |  |
-| 15 | Presentations/Demos | Presentations |
+| 2 | Workflow | Install RStudio, Zotero & create Github Account   | September 15 |
+| 3 | Defining Your Problem | Problem Design Statement | September 22 |
+| 4 | Data Sources |  |  |
+| 5 | Data "Tidying" | Tidy Data Upload  | October 6 |
+| 6 | Visualization Tools | Exploratory Visualization | October 13 |
+| 7 | Method Selection | Method Description | October 20 |
+| 8 | Feature Distillation |  |  |
+| 9 | Construct Validity |  |  |
+| 10 | Feature Adaption |  |  |
+| 11 | Progress Statement | Progress Statement | November 22 |
+| 12 | Feature Reuse |  |  |
+| 13 | Advanced Visualization   | Logic Model  | December 8 |
+| 14 | Iteration & Collaboration  |  |  |
+| 15 | Presentations/Demos | Presentations |  December 22 |
+|    |  | Final Deliverables | December 23 |
+
 
 ## Fine Print
 
