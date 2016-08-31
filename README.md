@@ -33,5 +33,10 @@ In addition to these milestones students will also monitor and record their proj
  * Participation -       10%
 
 
+## Weekly Schedule
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 1      | right-aligned | $1600 |
+| 2      | centered      |   $12 |
+| 3 | are neat      |    $1 |
