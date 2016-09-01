@@ -4,7 +4,7 @@
 * **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am  
 * **Location:** GDH 535
-* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu)
+* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
 *  **Prerequisite:** HUDK 4050
 
 ## Course Description
