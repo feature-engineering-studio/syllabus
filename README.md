@@ -38,7 +38,7 @@ In addition to these milestones students will also monitor and record their proj
 ## Weekly Schedule
 
 | Week        | Topic           | Deliverable  | Due Date |
-| :----------- |:-------------:| :-----:| :-----:|
+| :-----------: |:-------------:| :-----:| :-----:|
 | 1 | Introduction |  |
 | 2 | Workflow | Install RStudio, Zotero & create Github Account   | September 15 |
 | 3 | Defining Your Problem | Problem Design Statement | September 22 |
