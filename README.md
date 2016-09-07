@@ -4,7 +4,7 @@
 * **Instructor:** Charles Lang, [lang2@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am  
 * **Location:** GDH 535
-* **Instructor Office Hours:** Tuesdays, 1:00pm - 2:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
+* **Instructor Office Hours:** Tuesdays, 1:00pm - 2:00pm or [by appointment](mailto:lang2@tc.columbia.edu) in GDH 540
 *  **Prerequisite:** HUDK 4050
 *  **Credits:** 3
 
