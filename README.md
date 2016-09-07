@@ -18,6 +18,7 @@ Each week students will be expected to attend two classes, on Tuesdays tools and
 
 Each student will work on their own feature engineering project that tackles a self-defined problem. However, HUDK 5053 is largely a course about workflow and therefore students will be assessed on the accomplishment of the following workflow milestones, rather than the success or failure of their project:
 
+ * Setup
  * Problem Design Statement
  * Data Submission
  * Exploratory Visualization
