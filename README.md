@@ -27,7 +27,7 @@ Each student will work on their own feature engineering project that tackles a s
  * Presentation
  * Final Deliverable (including resource list)
  
-In addition to these milestones students will also monitor and record their project's progress and will be required to give two progress statements, one verbally and one written. **All students must also meet with the instructor once during semester**
+In addition to these milestones students will also monitor and record their project's progress and will be required to give two progress statements, one verbally and one written. **All students must also meet with the instructor once during semester.**
 
 **Grade Breakdown:**
 
