@@ -38,7 +38,7 @@ In addition to these milestones students will also monitor and record their proj
 
 ## Weekly Schedule
 
-| Week        | Topic           | Deliverable^+  | Due Date |
+| Week        | Topic           | Deliverable<sup>$</sup>  | Due Date |
 | :-----------: |:-------------:| :-----:| :-----:|
 | 1 | Introduction |  |
 | 2 | Workflow | Install RStudio, Zotero & create Github Account   | September 15 |
@@ -56,7 +56,7 @@ In addition to these milestones students will also monitor and record their proj
 | 14 | Iteration & Collaboration  |  |  |
 | 15 | Presentations/Demos | Presentations |  December 22 |
 |    |  | Final Deliverables | December 23 |
-"+" **Deliverables due by close of business (5pm EST)**
+  $ **Deliverables due by close of business (5pm EST)**
 
 ## Fine Print
 
