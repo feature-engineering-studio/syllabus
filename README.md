@@ -1,7 +1,7 @@
 # Feature Engineering Studio: Syllabus
 
 * **Course:** HUDK 5053, Teachers College, Columbia University
-* **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
+* **Instructor:** Charles Lang, [lang2@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am  
 * **Location:** GDH 535
 * **Instructor Office Hours:** Tuesdays, 1:00pm - 2:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
