@@ -49,7 +49,7 @@ In addition to these milestones students will also monitor and record their proj
 | 7 | Method Selection | Method Description | October 20 |
 | 8 | Feature Distillation |  |  |
 | 9 | Construct Validity |  |  |
-| 10 | Feature Adaption |  |  |
+| 10 | Feature  Adaptation |  |  |
 | 11 | Progress Statement | Progress Statement | November 22 |
 | 12 | Feature Reuse |  |  |
 | 13 | Advanced Visualization   | Logic Model  | December 8 |
