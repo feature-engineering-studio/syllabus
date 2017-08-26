@@ -26,15 +26,16 @@ Assessemnt is broken down into team and individual deliverables.
 
 ### Individual Deliverables:
 
-* Updated LinkedIn account (**Due 5:00pm December 7**)
-* Updated Github account (**Due 5:00pm December 7**)
-* Complete an automated data collection and visualization assignment (**Due 5:00pm December 7**)
+* Updated LinkedIn account (**Due 5:00pm December 5**)
+* Updated Github account (**Due 5:00pm December 5**)
+* Complete an automated data collection and visualization assignment to be presented (**Due 9:00am November 14**)
+* Attend an EdTech Meetup and report to class about it (**Due by 11:00am December 5**)
 
 ### Team Deliverables
 
 * Memorandum of understanding including description of deliverables signed by supervisor (**Due 5:00pm September 28**)
 * Project timeline and division of labor (**Due 5:00pm September 28**)
-* Evidence of Project Management tool use (**Due 5:00pm December 7**)
+* Evidence of Project Management tool use (**Due 5:00pm December 5**)
 * Final deliverable as defined in consultation with site supervisor (**Due date determined in consultation with site**)
 
 ## Relationship to Learning Analytics Program Capstone Project
@@ -45,24 +46,24 @@ Site projects started in FES are intended to become Capstone Projects for comple
 
 Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
 
-| Date  | Topic                                                | Due                        |
-| :---: |:----------------------------------------------------:| :------------------------: |
-| 09-09 | Introduction and Project Briefs                      |                            |
-| 09-12 | Project Allocation, MOUs & Project Management        |                            |
-| 09-19 | Logic Models and                                     |                            |
-| 09-26 | APIs                                                 | MOU & Project Timeline     |
-| 10-03 | Class Visit by Ed Pioneers                           |                            |
-| 10-10 | Amazon Webservices 
-| 10-17 | 
-| 10-24 | LinkedIn & Github
-| 10-31 | 
-| 11-07 | 
-| 11-14 |
-| 11-21 |
-| 11-28 | 
-| 12-05 | Group Work
-| 12-12 | Group Work
-| 12-19 | Final required meeting with Project Supervisor
+| Date  | Topic                                                | Due                          |
+| :---: |:----------------------------------------------------:| :--------------------------: |
+| 09-09 | Introduction and Project Briefs                      | Project Selection            |
+| 09-12 | Defining Your Problem & MOUs                         | Project Allocation           |
+| 09-19 | Project Management Tools                             |                              |
+| 09-26 | Iteration & Collabroation                            | MOU & Project Timeline       |
+| 10-03 | Class Visit by Ed Pioneers                           |                              |
+| 10-10 | LinkedIn & Github                                    |                              |
+| 10-17 | APIs                                                 |                              |
+| 10-24 | Amazon Webservices                                   |                              |
+| 10-31 | Group Checkin                                        |                              |
+| 11-07 |                                                      |                              | 
+| 11-14 | Present Data Collection Project                      | Data Collection Presentation |
+| 11-21 | Group Checkin                                        |                              |
+| 11-28 | Present Team Progress                                |                              |
+| 12-05 | Group Checkin                                        | LinkedIn & Github Account    |
+| 12-12 | Group Checkin                                        |                              |
+| 12-19 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
 
 
 ## Fine Print
