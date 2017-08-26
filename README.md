@@ -34,6 +34,15 @@ Assessemnt is broken down into team and individual deliverables.
 
 Site projects started in FES are intended to become Capstone Projects for completion of the Learning Analytics Masters Program. In order to use team projects as Capstone submissions teams must present on their project at the **Learning Analytics End of Year Ceremony in April, 2018**.
 
+## Schedule
+
+Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
+
+| Date          | Topic         | Due   |
+| :-----------: |:-------------:| :----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Fine Print
 
