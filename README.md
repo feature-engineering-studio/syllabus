@@ -19,16 +19,16 @@ Assessemnt is broken down into team and individual deliverables.
 
 ### Individual Deliverables:
 
-* Updated LinkedIn account 
-* Updated Github account
-* Complete an automated data collection and visualization assignment
+* Updated LinkedIn account (**Due 5:00pm December 7**)
+* Updated Github account (**Due 5:00pm December 7**)
+* Complete an automated data collection and visualization assignment (**Due 5:00pm December 7**)
 
 ### Team Deliverables
 
-* Memorandum of understanding including description of deliverables signed by supervisor
-* Project timeline and division of labor
-* Evidence of Project Management tool use
-* Final deliverable as defined in consultation with site supervisor
+* Memorandum of understanding including description of deliverables signed by supervisor (**Due 5:00pm September 28**)
+* Project timeline and division of labor (**Due 5:00pm September 28**)
+* Evidence of Project Management tool use (**Due 5:00pm December 7**)
+* Final deliverable as defined in consultation with site supervisor (**Due date determined in consultation with site**)
 
 ## Relationship to Learning Analytics Program Capstone Project
 
