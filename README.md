@@ -38,11 +38,13 @@ Site projects started in FES are intended to become Capstone Projects for comple
 
 Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
 
-| Date          | Topic         | Due   |
-| :-----------: |:-------------:| :----:|
-| 09-09      | Introduction |  |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Date  | Topic                            | Due    |
+| :---: |:--------------------------------:| :----: |
+| 09-09 | Introduction and Project Briefs  |        |
+| 09-12 | MOUs & Project Management        |        |
+| 09-19 | APIs                             |        |
+| 09-26 | Amazon Webservices               |        |
+| 10-03 | Class Visit by 
 
 ## Fine Print
 
