@@ -13,6 +13,13 @@
 Feature Engineering Studio is a core course of the Learning Analytics Program and preference is given to students within this course of study. FES is a design studio style course that tackles real world data problems assocaited with technology use in education. Students will work in groups with outside organizations on data projects pertinent to eudcational problems. They will be required to respond to briefs supplied by the organizations and perform all parts of the workflow to generate data solutions for those organizations including, 
 data cleaning and access, feature engineering and distillation, visualization, and final deliverables.
 
+## Educational Goals
+
+* Obtain experience with real-world educational data problems in context
+* Setup an automated data collection operation
+* Begin a project for use as Capstone project
+* Develop workforce readiness and job search skills
+
 ## Assessment
 
 Assessemnt is broken down into team and individual deliverables.
@@ -38,13 +45,25 @@ Site projects started in FES are intended to become Capstone Projects for comple
 
 Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
 
-| Date  | Topic                            | Due    |
-| :---: |:--------------------------------:| :----: |
-| 09-09 | Introduction and Project Briefs  |        |
-| 09-12 | MOUs & Project Management        |        |
-| 09-19 | APIs                             |        |
-| 09-26 | Amazon Webservices               |        |
-| 10-03 | Class Visit by 
+| Date  | Topic                                                | Due                        |
+| :---: |:----------------------------------------------------:| :------------------------: |
+| 09-09 | Introduction and Project Briefs                      |                            |
+| 09-12 | Project Allocation, MOUs & Project Management        |                            |
+| 09-19 | Logic Models and                                     |                            |
+| 09-26 | APIs                                                 | MOU & Project Timeline     |
+| 10-03 | Class Visit by Ed Pioneers                           |                            |
+| 10-10 | Amazon Webservices 
+| 10-17 | 
+| 10-24 | LinkedIn & Github
+| 10-31 | 
+| 11-07 | 
+| 11-14 |
+| 11-21 |
+| 11-28 | 
+| 12-05 | Group Work
+| 12-12 | Group Work
+| 12-19 | Final required meeting with Project Supervisor
+
 
 ## Fine Print
 
