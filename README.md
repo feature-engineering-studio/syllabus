@@ -2,7 +2,7 @@
 
 * **Course:** HUDK 5053, Teachers College, Columbia University
 * **Instructor:** Charles Lang, [lang2@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
-* **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am  
+* **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am 
 * **Location:** GDH 535
 * **Instructor Office Hours:** Tuesdays, 1:00pm - 2:00pm or [by appointment](mailto:lang2@tc.columbia.edu) in GDH 540
 *  **Prerequisite:** HUDK 4050
@@ -10,53 +10,30 @@
 
 ## Course Description
 
-This course is a design studio-style course teaching how to distill and engineer features for data mining. Students will cover a workflow process for feature engineering and distillation; including brainstorming features, deciding what features to create, visualization, and criteria for selecting features. The class will utilize RStudio and Github.  
-
-Each week students will be expected to attend two classes, on Tuesdays tools and methods will be covered, on Thursdays students will workshop their projects.
+Feature Engineering Studio is a core course of the Learning Analytics Program and preference is given to students within this course of study. FES is a design studio style course that tackles real world data problems assocaited with technology use in education. Students will work in groups with outside organizations on data projects pertinent to eudcational problems. They will be required to respond to briefs supplied by the organizations and perform all parts of the workflow to generate data solutions for those organizations including, 
+data cleaning and access, feature engineering and distillation, visualization, and final deliverables.
 
 ## Assessment
 
-Each student will work on their own feature engineering project that tackles a self-defined problem. However, HUDK 5053 is largely a course about workflow and therefore students will be assessed on the accomplishment of the following workflow milestones, rather than the success or failure of their project:
+Assessemnt is broken down into team and individual deliverables.
 
- * Setup
- * Problem Design Statement
- * Data Submission
- * Exploratory Visualization
- * Methodological Description
- * Logic Model
- * Presentation
- * Final Deliverable (including resource list)
- 
-In addition to these milestones students will also monitor and record their project's progress and will be required to give two progress statements, one verbally and one written. **All students must also meet with the instructor once during semester.**
+### Individual Deliverables:
 
-**Grade Breakdown:**
+* Updated LinkedIn account 
+* Updated Github account
+* Complete an automated data collection and visualization assignment
 
- * Workflow Milestones - 60%
- * Progress Statements - 30%
- * Participation -       10%
+### Team Deliverables
 
+* Memorandum of understanding including description of deliverables signed by supervisor
+* Project timeline and division of labor
+* Evidence of Project Management tool use
+* Final deliverable as defined in consultation with site supervisor
 
-## Weekly Schedule
+## Relationship to Learning Analytics Program Capstone Project
 
-| Week        | Topic           | Deliverable<sup>$</sup>  | Due Date |
-| :-----------: |:-------------:| :-----:| :-----:|
-| 1 | Introduction |  |
-| 2 | Workflow | Install RStudio, Zotero & create Github Account   | September 15 |
-| 3 | Defining Your Problem | Problem Design Statement | September 22 |
-| 4 | Data Sources |  |  |
-| 5 | Data "Tidying" | Tidy Data Upload  | October 6 |
-| 6 | Visualization Tools | Exploratory Visualization | October 13 |
-| 7 | Method Selection | Method Description | October 20 |
-| 8 | Feature Distillation |  |  |
-| 9 | Construct Validity |  |  |
-| 10 | Feature  Adaptation |  |  |
-| 11 | Progress Statement | Progress Statement | November 22 |
-| 12 | Feature Reuse |  |  |
-| 13 | Advanced Visualization   | Logic Model  | December 8 |
-| 14 | Iteration & Collaboration  |  |  |
-| 15 | Presentations/Demos | Presentations |  December 22 |
-|    |  | Final Deliverables | December 23 |
-  $ **Deliverables due by close of business (5pm EST)**
+Site projects started in FES are intended to become Capstone Projects for completion of the Learning Analytics Masters Program. In order to use team projects as Capstone submissions teams must present on their project at the **Learning Analytics End of Year Ceremony in April, 2018**.
+
 
 ## Fine Print
 
