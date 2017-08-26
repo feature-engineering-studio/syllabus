@@ -40,7 +40,7 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 
 | Date          | Topic         | Due   |
 | :-----------: |:-------------:| :----:|
-| col 3 is      | right-aligned | $1600 |
+| 09-09      | Introduction |  |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
