@@ -3,7 +3,7 @@
 * **Course:** HUDK 5053, Teachers College, Columbia University
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am 
-* **Location:** GDH 535
+* **Location:** GDH 273A
 * **Instructor Office Hours:** Tuesdays, 1:00pm - 2:00pm or [by appointment](mailto:lang2@tc.columbia.edu) in GDH 540
 *  **Prerequisite:** HUDK 4050
 *  **Credits:** 3
@@ -53,8 +53,8 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 09-19 | Project Management Tools                             |                              |
 | 09-26 | Iteration & Collabroation                            | MOU & Project Timeline       |
 | 10-03 | Class Visit by Ed Pioneers                           |                              |
-| 10-10 | LinkedIn & Github                                    |                              |
-| 10-17 | APIs                                                 |                              |
+| 10-10 | APIs                                                 |                              |
+| 10-17 | LinkedIn & Github                                    |                              |
 | 10-24 | Amazon Webservices                                   |                              |
 | 10-31 | Group Checkin                                        |                              |
 | 11-07 |                                                      |                              | 
