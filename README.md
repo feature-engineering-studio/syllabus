@@ -2,9 +2,10 @@
 
 * **Course:** HUDK 5053, Teachers College, Columbia University
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
-* **Day/Time:** Tuesdays/Thursdays, 9:00am - 10:40am 
+* **Day/Time:** Tuesdays/Thursdays, 7:20pm - 9:00pm 
 * **Location:** GDH 273A
-* **Instructor Office Hours:** Tuesdays, 1:00pm - 2:00pm or [by appointment](mailto:lang2@tc.columbia.edu) in GDH 540
+* **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454 - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
+**(If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai)**
 *  **Prerequisite:** HUDK 4050
 *  **Credits:** 3
 
