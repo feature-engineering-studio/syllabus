@@ -27,13 +27,14 @@ Assessemnt is broken down into team and individual deliverables.
 
 ### Individual Deliverables:
 
-* Updated LinkedIn account (**Due 5:00pm December 5**)
-* Updated Github account (**Due 5:00pm December 5**)
-* Complete an automated data collection and visualization assignment to be presented (**Due 9:00am November 14**)
-* Attend an EdTech Meetup and report to class about it (**Due by 11:00am December 5**)
+* [SQL Tutorial](https://www.lynda.com/SQL-tutorials/SQL-Essential-Training/718660-2.html) & Test
+* Updated LinkedIn account 
+* Updated Github account 
+* Attend & Present on a relevant EdTech/Data Science event
 
 ### Team Deliverables
 
+* Complete an automated data collection and visualization assignment to be presented (**Due 9:00am November 14**)
 * Memorandum of understanding including description of deliverables signed by supervisor (**Due 5:00pm September 28**)
 * Project timeline and division of labor (**Due 5:00pm September 28**)
 * Evidence of Project Management tool use (**Due 5:00pm December 5**)
@@ -49,22 +50,25 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 
 | Date  | Topic                                                | Due                          |
 | :---: |:----------------------------------------------------:| :--------------------------: |
-| 09-09 | Introduction and Project Briefs                      | Project Selection            |
-| 09-12 | Defining Your Problem & MOUs                         | Project Allocation           |
-| 09-19 | Project Management Tools                             |                              |
-| 09-26 | Iteration & Collabroation                            | MOU & Project Timeline       |
-| 10-03 | Class Visit by Ed Pioneers                           |                              |
-| 10-10 | APIs                                                 |                              |
-| 10-17 | LinkedIn & Github                                    |                              |
-| 10-24 | Amazon Webservices                                   |                              |
-| 10-31 | Group Checkin                                        |                              |
-| 11-07 |                                                      |                              | 
-| 11-14 | Present Data Collection Project                      | Data Collection Presentation |
-| 11-21 | Group Checkin                                        |                              |
-| 11-28 | Present Team Progress                                |                              |
-| 12-05 | Group Checkin                                        | LinkedIn & Github Account    |
-| 12-12 | Group Checkin                                        |                              |
-| 12-19 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
+| 09-06 | Introduction and Project Briefs                      |                              |
+| 09-11 | Defining Your Problem & MOUs                         | Project Selection            |
+| 09-13 | Project Management Tools                             |                              |
+| 09-18 | Iteration & Collabroation                            | MOU & Project Timeline       |
+| 09-20 | APIs                                                 |                              |
+| 09-25 | LinkedIn & Github                                    | LinkedIn & Github Account    |
+| 09-27 | SQL Test                                             | SQL Test                     |
+| 10-02 | Amazon Webservices                                   |                              |
+| 10-09 | Group Checkin                                        |                              |
+| 10-16 |                                                      |                              | 
+| 10-23 | Present Data Collection Project                      | Data Collection Presentation |
+| 10-30 | Group Checkin                                        |                              |
+| 11-06 | Present Team Progress                                |                              |
+| 11-13 | Group Checkin                                        |     |
+| 11-20 | Group Checkin                                        |                              |
+| 11-27 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
+| 12-04 |        | Project Management Tool Use  |
+| 12-11 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
+| 12-18 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
 
 
 ## Fine Print
