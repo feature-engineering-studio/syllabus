@@ -34,15 +34,20 @@ Assessemnt is broken down into team and individual deliverables.
 
 ### Team Deliverables
 
-* Complete an automated data collection and visualization assignment to be presented (**Due 9:00am November 14**)
-* Memorandum of understanding including description of deliverables signed by supervisor (**Due 5:00pm September 28**)
-* Project timeline and division of labor (**Due 5:00pm September 28**)
-* Evidence of Project Management tool use (**Due 5:00pm December 5**)
-* Final deliverable as defined in consultation with site supervisor (**Due date determined in consultation with site**)
+#### Class Project
+* ClickUp workplan
+* Github Repo
+* Presentation
+
+#### Placement Project
+* Memorandum of understanding including description of deliverables signed by supervisor
+* Privacy policies that govern data use & any specific non-disclosure agreements
+* Project timeline, finishing date and division of labor in ClickUp
+* Final deliverable as defined in consultation with placement supervisor
 
 ## Relationship to Learning Analytics Program Capstone Project
 
-Site projects started in FES are intended to become Capstone Projects for completion of the Learning Analytics Masters Program. In order to use team projects as Capstone submissions teams must present on their project at the **Learning Analytics End of Year Ceremony in April, 2018**.
+Site projects started in FES are intended to become Capstone Projects for completion of the Learning Analytics Masters Program. In order to use team projects as Capstone submissions teams must present on their project at the **Learning Analytics End of Year Ceremony in March, 2019**.
 
 ## Schedule
 
@@ -52,23 +57,23 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | :---: |:----------------------------------------------------:| :--------------------------: |
 | 09-06 | Introduction and Project Briefs                      |                              |
 | 09-11 | Defining Your Problem & MOUs                         | Project Selection            |
-| 09-13 | Project Management Tools                             |                              |
-| 09-18 | Iteration & Collabroation                            | MOU & Project Timeline       |
-| 09-20 | APIs                                                 |                              |
-| 09-25 | LinkedIn & Github                                    | LinkedIn & Github Account    |
+| 09-13 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |
+| 09-18 | APIs & OAUTH                                         | MOU & Project Timeline       |
+| 09-20 | Amazon Webservices I                                 |                              |
+| 09-25 | Amazon Webservices II                                |                              |
 | 09-27 | SQL Test                                             | SQL Test                     |
-| 10-02 | Amazon Webservices                                   |                              |
-| 10-09 | Group Checkin                                        |                              |
-| 10-16 |                                                      |                              | 
-| 10-23 | Present Data Collection Project                      | Data Collection Presentation |
-| 10-30 | Group Checkin                                        |                              |
-| 11-06 | Present Team Progress                                |                              |
-| 11-13 | Group Checkin                                        |     |
-| 11-20 | Group Checkin                                        |                              |
-| 11-27 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
-| 12-04 |        | Project Management Tool Use  |
-| 12-11 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
-| 12-18 | Final required meeting with Project Supervisor       | Project Management Tool Use  |
+| 10-02 | Functionalization & Dockerization                    |                              |
+| 10-09 | Five Machine Learning Models                         |                              |
+| 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    | 
+| 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |
+| 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |
+| 11-06 |                                                      | Placement MOU, NDA, Privacy docs|
+| 11-13 |                                                      |                              |
+| 11-20 |                                                      |                              |
+| 11-27 |                                                      |                              |
+| 12-04 |                                                      |                              |
+| 12-11 | Placement Presentations                              |                              |
+| 12-18 |                                                      |                              |
 
 
 ## Fine Print
