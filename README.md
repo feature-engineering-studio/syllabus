@@ -58,7 +58,7 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 09-06 | Introduction and Project Briefs                      |                              |
 | 09-11 | Defining Your Problem & MOUs                         | Project Selection            |
 | 09-13 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |
-| 09-18 | APIs & OAUTH                                         | MOU & Project Timeline       |
+| 09-18 | APIs & OAUTH                                         | MOU & Project Timeline       | Zhuqian Zhou
 | 09-20 | Amazon Webservices I                                 |                              |
 | 09-25 | Amazon Webservices II                                |                              |
 | 09-27 | SQL Test                                             | SQL Test                     |
