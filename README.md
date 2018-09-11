@@ -54,7 +54,6 @@ Site projects started in FES are intended to become Capstone Projects for comple
 Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
 
 
-=======
 | Date  | Topic                                                | Due                          | Presenter               
 | :---: |:----------------------------------------------------:| :--------------------------: |:--------------------------: |
 | 09-06 | Introduction and Project Briefs                      |                              |                             |
