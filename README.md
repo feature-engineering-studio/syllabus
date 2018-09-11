@@ -65,7 +65,7 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 10-02 | Functionalization & Dockerization                    |                              |                             |
 | 10-09 | Five Machine Learning Models                         |                              |                             |
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |                             |
-| 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |                 |
+| 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |   veronicamxy              |
 | 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |                             |
 | 11-06 |                                                      | Placement MOU, NDA, Privacy docs|                          |
 | 11-13 |                                                      |                              |                             |
