@@ -53,6 +53,7 @@ Site projects started in FES are intended to become Capstone Projects for comple
 
 Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
 
+
 | Date  | Topic                                                | Due                          | Presenter               
 | :---: |:----------------------------------------------------:| :--------------------------: |:--------------------------: |
 | 09-06 | Introduction and Project Briefs                      |                              |                             |
@@ -65,6 +66,10 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 10-02 | Functionalization & Dockerization                    |                              |                             |
 | 10-09 | Five Machine Learning Models                         |                              |                             |
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    | Kim                         |
+| 10-09 | Five Machine Learning Models                         |                              |  Yipu Zheng                 |
+| 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |                             |
+| 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |  Blake          | 
+| 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |      Yigu Liang             |
 | 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |                 |
 | 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |                             |
 | 11-06 |                                                      | Placement MOU, NDA, Privacy docs|                          |
@@ -74,6 +79,7 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 12-04 |                                                      |                              |                             |
 | 12-11 | Placement Presentations                              |                              |                             |
 | 12-18 |                                                      |                              |                             |
+
 
 
 ## Fine Print
