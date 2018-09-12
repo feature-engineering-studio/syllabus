@@ -70,7 +70,7 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 09-25 | Amazon Webservices II                                |                              |                             |
 | 09-27 | SQL Test                                             | SQL Test                     |                             |
 | 10-02 | Functionalization & Dockerization                    |                              |                             |
-| 10-09 | Five Machine Learning Models                         |                              | Maria Hamdani                           |
+| 10-09 | Five Machine Learning Models                         |                              | Maria Hamdani, Sizheng Zhu  |
 | 10-02 | Functionalization & Dockerization                    |                              |  Xuecen Wang                |
 | 10-09 | Five Machine Learning Models                         |                              |                             |
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    | Kim                         |
