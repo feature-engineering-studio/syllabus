@@ -64,6 +64,8 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 09-25 | Amazon Webservices II                                |                              |                             |
 | 09-27 | SQL Test                                             | SQL Test                     |                             |
 | 10-02 | Functionalization & Dockerization                    |                              |                             |
+| 10-09 | Five Machine Learning Models                         |                              |                             |
+| 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    | Kim                         |
 | 10-09 | Five Machine Learning Models                         |                              |  Yipu Zheng                 |
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |                             |
 | 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |  Blake          | 
