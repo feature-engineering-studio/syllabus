@@ -66,13 +66,13 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 10-02 | Functionalization & Dockerization                    |                              | Anh Nguyen                  |
 | 10-09 | Five Machine Learning Models                         |                              |                             |
 | 09-18 | APIs & OAUTH                                         | MOU & Project Timeline       |                             |
-| 09-20 | Amazon Webservices I                                 |                              |                             |
+| 09-20 | Amazon Webservices I                                 |                              |  Liyan Peng                 |
 | 09-25 | Amazon Webservices II                                |                              |                             |
 | 09-27 | SQL Test                                             | SQL Test                     |                             |
 | 10-02 | Functionalization & Dockerization                    |                              |                             |
 | 10-09 | Five Machine Learning Models                         |                              | Maria Hamdani, Sizheng Zhu  |
 | 10-02 | Functionalization & Dockerization                    |                              |  Xuecen Wang                |
-| 10-09 | Five Machine Learning Models                         |                              |  Yipu Zheng                            |
+| 10-09 | Five Machine Learning Models                         |                              |  Yipu Zheng                          |
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |Yi Shen, Kim, Yigu Liang     |
 | 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |  Blake          | 
 | 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |                             |
