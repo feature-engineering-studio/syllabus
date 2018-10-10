@@ -65,6 +65,7 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 09-27 | SQL Test                                             | SQL Test                     |                             |
 | 10-02 | Functionalization & Dockerization                    |                              | Anh Nguyen, Eddie Lin, Xuecen Wang, Sarah Och|
 | 10-09 | Five Machine Learning Models                         |                              | Yipu Zheng, Maria Hamdani, Blake Rumuly Sizheng Zhu|
+| 10-11 | Class Visit                                          |                              | Xuecen                      | 
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |Yi Shen, Kim, Yigu Liang, Veronica Mai|
 | 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |  Blake          | 
 | 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |                             |
