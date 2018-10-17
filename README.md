@@ -67,7 +67,8 @@ Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material,
 | 10-09 | Five Machine Learning Models                         |                              | Yipu Zheng, Maria Hamdani, Blake Rumuly Sizheng Zhu|
 | 10-11 | Class Visit                                          |                              | Xuecen                      | 
 | 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |Yi Shen, Kim, Yigu Liang, Veronica Mai|
-| 10-23 | Class Project Presentations                          | Class Project Presentation, Github Repo  |  Blake          | 
+| 10-23 | Class Project Presentations I                        | Class Project Presentation, Github Repo  | Sizheng/Blake, Eddie/Kim, Monica/Anh, Karen/Dave                | 
+| 10-25 | Class Project Presentations II                       |                              | Yigu/Sarah, Liyan/Xuecen, Veronica/Yipu, Caoyuan/Yi Shen |
 | 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |                             |
 | 11-06 |                                                      | Placement MOU, NDA, Privacy docs|                          |
 | 11-13 |                                                      |                              |                             |
