@@ -54,20 +54,20 @@ Site projects started in FES are intended to become Capstone Projects for comple
 Class is scheduled for Tuesdays and Thursdays.
 
 
-| Date  | Topic                                                | Due                          | Presenter               
-| :---: |:----------------------------------------------------:| :--------------------------: |:--------------------------: |
-| 05-23 | Entrance Survey/Intro Video                          |                              |                             |
-| 05-28 | Defining Your Problem & MOUs                         | Project Selection            |                             |
-| 05-30 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |                             |
-| 06-04 | APIs, OAUTH & Python                                 | Project Timeline             |                             |
-| 06-06 | Amazon Webservices                                   |                              |                             |
-| 06-11 | Functionalization & Dockerization                    |                              |                             |
-| 06-13 | SQL Test                                             | SQL Test                     |                             |
-| 06-18 | Mock Online Class Activity                           | Mock Online Class Activity   |                             |
-| 06-20 | Five Machine Learning Models                         |                              |                             |
-| 06-25 |                                                      |                              |                             | 
-| 06-27 | LinkedIn & Github                                    | LinkedIn & Github Updated    |                             |
-| 07-02 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|          | 
+| Date  | Topic                                                | Due                          | 
+| :---: |:----------------------------------------------------:| :--------------------------: |
+| 05-23 | Entrance Survey/Intro Video                          |                              |
+| 05-28 | Defining Your Problem & MOUs                         | Project Selection            |
+| 05-30 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |
+| 06-04 | APIs, OAUTH & Python                                 | Project Timeline             |
+| 06-06 | Amazon Webservices                                   |                              |
+| 06-11 | Functionalization & Dockerization                    |                              |
+| 06-13 | SQL Test                                             | SQL Test                     |
+| 06-18 | Mock Online Class Activity                           | Mock Online Class Activity   |
+| 06-20 | Five Machine Learning Models                         |                              |
+| 06-25 |                                                      |                              |
+| 06-27 | LinkedIn & Github                                    | LinkedIn & Github Updated    |
+| 07-02 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|
 
 
 
