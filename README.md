@@ -65,8 +65,8 @@ Class is scheduled for Tuesdays and Thursdays.
 | 06-13 | SQL Test                                             | SQL Test                     |
 | 06-18 | Mock Online Class Activity                           | Mock Online Class Activity   |
 | 06-20 | Five Machine Learning Models                         |                              |
-| 06-25 |                                                      |                              |
-| 06-27 | LinkedIn & Github                                    | LinkedIn & Github Updated    |
+| 06-25 | LinkedIn & Github                                    |                              |
+| 06-27 |                                                      | LinkedIn & Github Updated    |
 | 07-02 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|
 
 
