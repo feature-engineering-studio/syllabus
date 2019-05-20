@@ -27,7 +27,7 @@ Assessemnt is broken down into team and individual deliverables.
 
 ### Individual Deliverables:
 
-* [SQL Tutorial](https://www.lynda.com/SQL-tutorials/SQL-Essential-Training/718660-2.html) & Test
+* SQL Test
 * Updated LinkedIn account 
 * Updated Github account 
 * Attend & Present on a relevant EdTech/Data Science event
@@ -36,7 +36,7 @@ Assessemnt is broken down into team and individual deliverables.
 
 #### Class Project
 * ClickUp workplan
-* Github Repo
+* Design & Deliver Online Class
 * Presentation
 
 #### Placement Project
@@ -66,7 +66,7 @@ Class is scheduled for Tuesdays and Thursdays.
 | 06-18 | Mock Online Class Activity                           | Mock Online Class Activity   |
 | 06-20 | Five Machine Learning Models                         |                              |
 | 06-25 | LinkedIn & Github                                    |                              |
-| 06-27 |                                                      | LinkedIn & Github Updated    |
+| 06-27 | Job Search Strategies                                | LinkedIn & Github Updated    |
 | 07-02 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|
 
 
