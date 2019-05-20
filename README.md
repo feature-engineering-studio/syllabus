@@ -2,11 +2,11 @@
 
 * **Course:** HUDK 5053, Teachers College, Columbia University
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
-* **Day/Time:** Tuesdays/Thursdays, 7:20pm - 9:00pm 
-* **Location:** GDH 273A
-* **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454 - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
+* **Day/Time:** Tuesdays/Thursdays, 4:40pm - 6:45pm 
+* **Location:** GDH 273B
+* **Instructor Office Hours:** By Appointment - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
 **(If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai)**
-*  **Prerequisite:** HUDK 4050
+*  **Prerequisite:** HUDK 4051
 *  **Credits:** 3
 
 ## Course Description
@@ -47,36 +47,28 @@ Assessemnt is broken down into team and individual deliverables.
 
 ## Relationship to Learning Analytics Program Capstone Project
 
-Site projects started in FES are intended to become Capstone Projects for completion of the Learning Analytics Masters Program. In order to use team projects as Capstone submissions teams must present on their project at the **Learning Analytics End of Year Ceremony in March, 2019**.
+Site projects started in FES are intended to become Capstone Projects for completion of the Learning Analytics Masters Program. 
 
 ## Schedule
 
-Class is scheduled for Tuesdays and Thursdays. Tuesdays will cover new material, Thursdays will be team meetings and check ins.
+Class is scheduled for Tuesdays and Thursdays.
 
 
 | Date  | Topic                                                | Due                          | Presenter               
 | :---: |:----------------------------------------------------:| :--------------------------: |:--------------------------: |
-| 09-06 | Introduction and Project Briefs                      |                              |                             |
-| 09-11 | Defining Your Problem & MOUs                         | Project Selection            |                             |
-| 09-13 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |                             |
-| 09-18 | APIs & OAUTH                                         | MOU & Project Timeline       |   Zhuqian Zhou              |
-| 09-20 | Amazon Webservices I                                 |                              |                             |
-| 09-25 | Amazon Webservices II                                |                              |                             |
-| 09-27 | SQL Test                                             | SQL Test                     |                             |
-| 10-02 | Functionalization & Dockerization                    |                              | Anh Nguyen, Eddie Lin, Xuecen Wang, Sarah Och|
-| 10-09 | Five Machine Learning Models                         |                              | Yipu Zheng, Maria Hamdani, Blake Rumuly Sizheng Zhu|
-| 10-11 | Class Visit                                          |                              | Xuecen                      | 
-| 10-16 | LinkedIn & Github                                    | LinkedIn & Github Updated    |Yi Shen, Kim, Yigu Liang, Veronica Mai|
-| 10-23 | Class Project Presentations I                        | Class Project Presentation, Github Repo  | Sizheng/Blake, Eddie/Kim, Maria/Anh, Karen/Dave                | 
-| 10-25 | Class Project Presentations II                       |                              | Yigu/Sarah, Liyan/Xuecen, Veronica/Yipu, Caoyuan/Yi Shen |
-| 10-30 | Placement Check In                                   | Placement ClickUp Plan Due   |                             |
-| 11-06 |                                                      | Placement MOU, NDA, Privacy docs|                          |
-| 11-13 |                                                      |                              |                             |
-| 11-20 |                                                      |                              |                             |
-| 11-27 |                                                      |                              |                             |
-| 12-04 |                                                      |                              |                             |
-| 12-11 | Placement Presentations                              |                              |                             |
-| 12-18 |                                                      |                              |                             |
+| 05-23 | Entrance Survey/Intro Video                          |                              |                             |
+| 05-28 | Defining Your Problem & MOUs                         | Project Selection            |                             |
+| 05-30 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |                             |
+| 06-04 | APIs, OAUTH & Python                                 | Project Timeline             |                             |
+| 06-06 | Amazon Webservices                                   |                              |                             |
+| 06-11 | Functionalization & Dockerization                    |                              |                             |
+| 06-13 | SQL Test                                             | SQL Test                     |                             |
+| 06-18 | Mock Online Class Activity                           | Mock Online Class Activity   |                             |
+| 06-20 | Five Machine Learning Models                         |                              |                             |
+| 06-25 |                                                      |                              |                             | 
+| 06-27 | LinkedIn & Github                                    | LinkedIn & Github Updated    |                             |
+| 07-02 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|          | 
+
 
 
 
