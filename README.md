@@ -30,14 +30,13 @@ Assessemnt is broken down into team and individual deliverables.
 * SQL Test
 * Updated LinkedIn account 
 * Updated Github account 
-* Attend & Present on a relevant EdTech/Data Science event
+* Attend a relevant EdTech/Data Science event
 
 ### Team Deliverables
 
 #### Class Project
-* ClickUp workplan
-* Design & Deliver Online Class
-* Presentation
+* Design & deliver a section of an Online Class in which you collect data
+* Presentation of analysis of that data
 
 #### Placement Project
 * Memorandum of understanding including description of deliverables signed by supervisor
