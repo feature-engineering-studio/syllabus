@@ -72,7 +72,7 @@ Class is scheduled for Tuesdays and Thursdays.
 
 [Ross, Noam (2014). Vectorization in R: Why?](https://www.noamross.net/blog/2014/4/16/vectorization-in-r--why.html)* There is some unrendered Latex code in this article. It should look like this:
 
-[Missing Latex]()
+[Missing Latex](https://github.com/feature-engineering-studio/syllabus/blob/master/missing-latex.png)
 
 
 ## Fine Print
