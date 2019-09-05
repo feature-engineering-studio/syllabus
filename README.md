@@ -37,6 +37,7 @@ Assessemnt is broken down into team and individual deliverables.
 #### Class Project
 * Design & deliver a section of an Online Class in which you collect data
 * Presentation of analysis of that data
+* Attend and present on an EdTech event
 
 #### Placement Project
 * Memorandum of understanding including description of deliverables signed by supervisor
