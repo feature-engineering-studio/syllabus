@@ -54,20 +54,20 @@ Site projects started in FES are intended to become Capstone Projects for comple
 Class is scheduled for Tuesdays and Thursdays.
 
 
-| Date  | Topic                                                | Due                          | 
-| :---: |:----------------------------------------------------:| :--------------------------: |
-| 05-23 | Entrance Survey/Intro Video                          |                              |
-| 05-28 | Defining Your Problem & MOUs                         | Project Selection            |
-| 05-30 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |
-| 06-04 | APIs, OAUTH & Python                                 | Project Timeline             |
-| 06-06 | Amazon Webservices                                   |                              |
-| 06-11 | Functionalization & Dockerization                    |                              |
-| 06-13 | SQL Test                                             | SQL Test                     |
-| 06-18 | Mock Online Class Activity                           | Mock Online Class Activity   |
-| 06-20 | Five Machine Learning Models                         |                              |
-| 06-25 | LinkedIn & Github                                    |                              |
-| 06-27 | Job Search Strategies                                | LinkedIn & Github Updated    |
-| 07-02 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|
+| Date  | Topic                                                | Due                          | Sign Up for Presentation|
+| :---: |:----------------------------------------------------:| :--------------------------: |:--------------------------:|
+| 09-05 | Introduction/Entrance Survey                         |                              |                            |
+| 09-10 | Defining Your Problem & MOUs                         | Project Selection            |                            |
+| 05-12 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |                            |  
+| 06-17 | APIs, OAUTH & Python                                 | Project Timeline             |                            | 
+| 06-19 | Amazon Webservices                                   |                              |                            |
+| 06-24 | Building Databases                                   |                              |                            |
+| 06-26 | SQL Test                                             | SQL Test                     |                            |
+| 10-01 | Mock Online Class Activity                           | Mock Online Class Activity   |                            |
+| 10-03 | Functionalization & Dockerization                    |                              |                            |
+| 10-08 | LinkedIn & Github                                    |                              |                            |
+| 10-10 | Job Search Strategies                                | LinkedIn & Github Updated    |                            |
+| 11-12 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|         |
 
 ## Readings
 
