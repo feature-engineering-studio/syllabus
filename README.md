@@ -2,8 +2,8 @@
 
 * **Course:** HUDK 5053, Teachers College, Columbia University
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](mailto:lang2@tc.columbia.edu), @learng00d
-* **Day/Time:** Tuesdays/Thursdays, 4:40pm - 6:45pm 
-* **Location:** GDH 273B
+* **Day/Time:** Variable, weekly email with instructions 
+* **Location:** Online
 * **Instructor Office Hours:** By Appointment - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
 **(If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai)**
 *  **Prerequisite:** HUDK 4051
@@ -30,7 +30,7 @@ Assessemnt is broken down into team and individual deliverables.
 * SQL Test
 * Updated LinkedIn account 
 * Updated Github account 
-* Attend a relevant EdTech/Data Science event
+* Attend a relevant EdTech/Data Science event (AWS Summit)
 
 ### Team Deliverables
 
@@ -42,7 +42,7 @@ Assessemnt is broken down into team and individual deliverables.
 #### Placement Project
 * Memorandum of understanding including description of deliverables signed by supervisor
 * Privacy policies that govern data use & any specific non-disclosure agreements
-* Project timeline, finishing date and division of labor in ClickUp
+* Project timeline, finishing date and division of labor
 * Final deliverable as defined in consultation with placement supervisor
 
 ## Relationship to Learning Analytics Program Capstone Project
@@ -56,18 +56,14 @@ Class is scheduled for Tuesdays and Thursdays.
 
 | Date  | Topic                                                | Due                          | Sign Up for Presentation|
 | :---: |:----------------------------------------------------:| :--------------------------: |:--------------------------:|
-| 09-05 | Introduction/Entrance Survey                         |                              |                            |
-| 09-10 | Defining Your Problem & MOUs                         | Project Selection            |                            |
-| 05-12 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |                            |  
-| 06-17 | APIs, OAUTH & Python                                 | Project Timeline             |                            | 
-| 06-19 | Amazon Webservices                                   |                              |                            |
-| 06-24 | Building Databases                                   |                              |                            |
-| 06-26 | SQL Test                                             | SQL Test                     |                            |
-| 10-01 | Mock Online Class Activity                           | Mock Online Class Activity   |                            |
-| 10-03 | Functionalization & Dockerization                    |                              |                            |
-| 10-08 | LinkedIn & Github                                    |                              |                            |
-| 10-10 | Job Search Strategies                                | LinkedIn & Github Updated    |                            |
-| 11-12 | Class Project Presentations                          | Presentation, placememt plan, MOU, NDA, etc, due|         |
+| 05-21 | Introduction/Entrance Survey                         |                              |                            |
+| 05-26 | Defining Your Problem & MOUs, LinkedIn & Github      | Project Selection            |                            |
+| 06-02 | Project Management Tools, Iteration & Collabroation  | Class Project ClickUp Plan   |                            |  
+| 06-09 | APIs, OAUTH & Python, Job Search Strategies          | Project Timeline             |                            | 
+| 06-16 | Amazon Webservices/Functionalization & Dockerization | LinkedIn & Github Updated    |                            |
+| 06-23 | Building Databases                                   | Mock Online Class Activity   |                            |
+| 06-30 | SQL Test                                             | SQL Test                     |                            |
+
 
 ## Readings
 
