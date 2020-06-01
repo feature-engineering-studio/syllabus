@@ -40,10 +40,12 @@ Assessemnt is broken down into team and individual deliverables.
 * Attend and present on an EdTech event
 
 #### Placement Project
-* Memorandum of understanding including description of deliverables signed by supervisor
-* Privacy policies that govern data use & any specific non-disclosure agreements
-* Project timeline, finishing date and division of labor
-* Final deliverable as defined in consultation with placement supervisor
+* Students must complete their placement with an outside organization
+* The placement organization must be approved by Prof. Lang and an introduction provided to the supervisor from that organization
+* A memorandum of understanding including description of deliverables must be signed by the placement supervisor
+* Privacy policies that govern data use & any specific non-disclosure agreements must be provided
+* Project timeline, finishing date and division of labor must be provided
+* Notification of final deliverable as defined in consultation with placement supervisor must be provided before degree completion
 
 ## Relationship to Learning Analytics Program Capstone Project
 
